@@ -2,7 +2,7 @@
 
 #coding=utf-8
 
-#The Credit For This Code Goes To FATIMA ZEHRA
+#The Credit For This Code Goes To FATIMAA ZEHRA
 
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 
